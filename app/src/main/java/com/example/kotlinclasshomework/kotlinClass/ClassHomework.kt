@@ -1,5 +1,9 @@
 package com.example.kotlinclasshomework.kotlinClass
 
+public class myJobe {
+    
+}
+
 /**
  * ДЗ:
  * Добавьте еще один класс, который будет наследоваться от класса Employee. Это может быть класс с названием вашей любимой профессии.
